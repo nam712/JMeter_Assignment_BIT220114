@@ -29,19 +29,19 @@
 
 ## Kết quả kiểm thử
 
-### Kịch bản 1:
+### Kịch bản 1: Cơ bản
 
 - Response Time trung bình: 58 ms
 - Throughput: 59,42 requests/sec
 - Error Rate: 0,000%
 
-### Kịch bản 2:
+### Kịch bản 2: Tải nặng
 
 - Response Time trung bình: 69 ms
 - Throughput: 4,31 requests/sec
 - Error Rate: 0,000%
 
-### Kịch bản 3:
+### Kịch bản 3: Tùy chỉnh
 
 - Response Time trung bình: 31 ms
 - Throughput: 1047,62 requests/sec
