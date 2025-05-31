@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+GET Homepage,64,109,95,206,"16,78","0,000%","2,15859","3,37","0,29","1601,0"
+GET Subpage,64,29,23,137,"14,09","0,000%","2,16971","3,22","0,32","1518,0"
+TOTAL,128,69,23,206,"43,04","0,000%","4,31340","6,57","0,61","1559,5"
